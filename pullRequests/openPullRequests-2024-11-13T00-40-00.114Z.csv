@@ -1,0 +1,170 @@
+Title,Created Date,Author
+Feat: Bulk Create Documents,2024-11-13T00:22:54Z,PineappleIOnic
+chore(deps-dev): bump twig/twig from 3.14.0 to 3.14.2,2024-11-12T19:49:08Z,dependabot[bot]
+feat: add telemetry,2024-11-12T09:45:17Z,basert
+Send migration errors individually,2024-11-12T02:30:25Z,PineappleIOnic
+Add git commit author avatar to deployments,2024-11-11T19:11:34Z,vermakhushboo
+Feat bulk updates,2024-11-11T06:29:28Z,PineappleIOnic
+Reapply "Update database",2024-11-11T02:23:50Z,abnegate
+Feat bulk deletes,2024-11-07T03:37:15Z,PineappleIOnic
+Delete rules when site or deployment is deleted,2024-11-06T18:16:47Z,vermakhushboo
+chore(deps-dev): bump symfony/process from 7.1.3 to 7.1.7,2024-11-06T16:14:42Z,dependabot[bot]
+Fix: bandwidth calculation,2024-11-06T11:31:26Z,Meldiron
+feat: update API endpoint in the code examples,2024-11-06T11:08:45Z,christyjacob4
+Fix: Preview domains locally,2024-11-06T10:53:41Z,Meldiron
+Use sizeActual instead for file storage usage,2024-11-05T03:27:08Z,lohanidamodar
+feat: Warn if null or empty key is passed,2024-10-30T21:05:20Z,patHyatt
+Fix 2365 Oauth2 does not add port number to uri,2024-10-29T20:40:48Z,AryanSwaroop
+feat: insights,2024-10-27T10:48:58Z,TorstenDittmann
+Create README-ES.md (Spanish/Español),2024-10-27T10:42:47Z,DH-555
+fix refreshToken missing in google oauth,2024-10-26T11:44:15Z,Shaik-Sirajuddin
+Feat sites,2024-10-25T16:48:40Z,vermakhushboo
+make view api use file cache,2024-10-25T15:39:11Z,shimonewman
+Update CONTRIBUTING.md,2024-10-24T16:27:36Z,raman04-byte
+fix: createuser... endpoints return a vague server error when null name is provided,2024-10-24T09:49:16Z,Shaik-Sirajuddin
+📚 Documentation: Deprecation of ${workspaceRoot} in VSCode debug config for XDebug setup. #8814,2024-10-22T12:22:39Z,Kraftsman1
+feat: move certificate generation to Adapter,2024-10-22T11:57:40Z,basert
+Memcached for `/view` endpoint,2024-10-20T12:31:30Z,ItzNotABug
+feat: custom registrar,2024-10-18T19:45:26Z,TorstenDittmann
+feat: add health-check that monitores pending certificates queue,2024-10-18T10:58:12Z,basert
+Rewrite function variables endpoints with http syntax,2024-10-14T15:49:20Z,vermakhushboo
+update docker image to use the latest image tag,2024-10-14T10:20:31Z,egyleader
+Reduce builds usage storage,2024-10-10T19:40:35Z,shimonewman
+example: compose files,2024-10-09T10:20:00Z,TorstenDittmann
+Adds state parameter to OAuth2 flow,2024-10-09T00:49:17Z,gepd
+Replace expectException with try/catch,2024-10-03T10:22:11Z,vermakhushboo
+Feat docker geo,2024-10-02T09:26:28Z,lohanidamodar
+chore: update SDKs,2024-10-01T17:10:41Z,christyjacob4
+feat(oauth): implement figma provider integration,2024-10-01T16:56:13Z,albnunes
+Delete Project devices return console,2024-10-01T11:31:26Z,fogelito
+Feat: PHP Stan code analysis,2024-09-27T15:16:19Z,Meldiron
+fix(assistant): make Appwrite Assistant hostname configurable,2024-09-24T08:52:56Z,basert
+Fix: unwanted logs & outbound issues,2024-09-20T11:04:57Z,Meldiron
+Fixing new user blocked issue,2024-09-20T01:34:40Z,EJM143
+Replace sleep with await method in functions,2024-09-18T22:15:19Z,vermakhushboo
+Multi region support,2024-09-15T15:45:18Z,shimonewman
+refactor: centralize parameter validation,2024-09-06T23:15:27Z,ladunjexa
+refactor: centralize payload population,2024-09-06T22:46:17Z,ladunjexa
+Bug 5901 fix resend invitation from create invite,2024-08-13T16:15:18Z,ZachHandley
+Refactor: Update Vietnamese translations,2024-08-13T15:54:22Z,HUNG-rushb
+Fix Scheduled Executions,2024-08-12T09:29:07Z,ItzNotABug
+Feat enum statuses,2024-08-02T20:18:15Z,byawitz
+Implement MFA Emails for authenticator creation and deletion,2024-08-02T04:28:21Z,PineappleIOnic
+updated the mobile platform,2024-08-01T17:18:29Z,EswaramoorthyS
+Db project by region,2024-07-30T15:37:16Z,shimonewman
+Feat console roles,2024-07-17T21:18:30Z,christyjacob4
+Avoid adding default storage permission for console user,2024-07-16T16:55:43Z,Souptik2001
+Add oauth2 details in session when creating session from oauth2 token,2024-07-13T04:18:41Z,Souptik2001
+Development Keys,2024-07-10T07:17:12Z,lohanidamodar
+Feat refactor init config,2024-06-30T04:32:08Z,lohanidamodar
+Add better error message for `CustomID` validator input data type,2024-06-27T05:01:58Z,Souptik2001
+Skip session secret validation and add session expiry check in case of JWT authentication,2024-06-24T09:23:53Z,Souptik2001
+[docs] Closing parenthesis is missing for print prompts,2024-06-19T10:16:50Z,hbjORbj
+Feat implement webauthn,2024-06-18T05:54:46Z,PineappleIOnic
+docs: :memo: improve nepali translation (ne.json),2024-06-16T10:43:54Z,infysumanta
+Exteand deletes worker,2024-06-16T08:11:44Z,shimonewman
+Implement Database Storage Metrics,2024-06-13T05:58:40Z,PineappleIOnic
+fix: Missing Translation For "countries.hk" in `lb.json`,2024-06-12T10:45:56Z,xuelink
+Updates in multi region sync,2024-06-04T14:10:16Z,shimonewman
+Add `HEAD` & `TRACE` Methods,2024-05-25T12:04:17Z,ItzNotABug
+docker-compose: mariadb,2024-05-24T05:54:45Z,grooverdan
+Fix resending team invite,2024-05-17T23:35:08Z,stnguyen90
+Feat split migrations,2024-05-17T08:22:06Z,PineappleIOnic
+Fix: executor failures,2024-05-16T10:42:43Z,Meldiron
+Delete throw original exception,2024-05-15T08:03:38Z,fogelito
+Fix collection not found errors,2024-05-08T16:18:27Z,fogelito
+Fix potential github action smells,2024-05-05T19:18:21Z,ceddy4395
+fix: removing unused appwrite-worker-mails Redis variables,2024-05-03T20:56:39Z,byawitz
+fix: backwards compatibility,2024-04-26T16:57:02Z,Meldiron
+Mysql server has gone away error,2024-03-21T16:37:32Z,fogelito
+chore: test ci ,2024-03-19T22:51:20Z,christyjacob4
+Rollback experimental logging,2024-03-19T09:07:52Z,PineappleIOnic
+fix: migration 1.4.x,2024-03-13T12:02:37Z,TorstenDittmann
+feat: expose function timeout variable to console,2024-03-11T16:43:44Z,ArmanNik
+Implementing the OAuth2 provider for 42 School in Appwrite,2024-03-09T22:40:46Z,lxup
+Add event information into specs,2024-03-07T13:41:27Z,gewenyu99
+Project backups,2024-03-07T10:28:51Z,fogelito
+Feat: DB proxy,2024-03-05T11:26:21Z,Meldiron
+Collectionid databaseid select,2024-02-28T15:31:53Z,fogelito
+Duplicate message,2024-02-26T12:13:35Z,fogelito
+feat: Better error message for maximum file size (storage_invalid_file_size),2024-02-19T06:57:28Z,Gustl22
+Confusing error when console accounts are restricted,2024-02-02T03:58:15Z,gewenyu99
+Feat: Remember me toggle,2024-01-23T10:55:26Z,Meldiron
+Feat: auto translations,2024-01-12T13:20:09Z,Meldiron
+Refactor Database for Limit count from environment,2023-12-25T18:49:27Z,va2ron1
+File tokens,2023-12-25T07:13:43Z,lohanidamodar
+Add Tunnelmole as an open source alternative to ngrok,2023-12-19T10:45:05Z,robbie-cahill
+fix: user-api-prefs-response,2023-12-10T05:45:21Z,nick2432
+Feat: Improve DB override,2023-11-27T11:59:41Z,Meldiron
+feat-3352-add-support-endpoint-url-for-s3,2023-11-18T12:10:23Z,schneidermr
+Update unsupported auth error code,2023-11-06T16:20:43Z,PineappleIOnic
+feat: use ghcr.io,2023-11-03T13:14:53Z,TorstenDittmann
+Implement Concurrency into hamster,2023-10-31T10:09:50Z,PineappleIOnic
+Add accessibility features,2023-10-29T23:47:25Z,mishmanners
+add fusionauth provider,2023-10-23T23:58:06Z,codercatdev
+[WIP]: Add storage uploaded event to fix #4507,2023-10-12T22:40:14Z,joern-h
+Update .gitattributes,2023-10-05T22:15:24Z,Laurry-gee
+Update .gitattributes,2023-10-05T22:15:11Z,Laurry-gee
+[Docs] Adding Elestio as one-click deploy option,2023-10-05T07:09:47Z,kaiwalyakoparkar
+Feat: Rename logs queue,2023-10-02T09:13:41Z,Meldiron
+Feat 5263 configurable jwt expiration,2023-09-14T20:23:45Z,BadgerBloke
+Framework v2,2023-09-10T12:34:51Z,lohanidamodar
+Move the project variables endpoints to the projects controller ,2023-09-01T19:35:08Z,stnguyen90
+Added Español to README.md,2023-09-01T17:11:37Z,learnwithalex
+Created Español README,2023-09-01T17:10:32Z,learnwithalex
+fix: typo for description in function model docs,2023-08-30T08:14:38Z,Mr-Destructive
+docs autocompletion command code fix #6039,2023-08-28T04:42:55Z,sital002
+Update tr.json,2023-08-25T20:09:01Z,tuvaergun
+Feat: Add appwriteException with constants for error types in specs,2023-08-12T17:54:06Z,sahilsaha7773
+Blob,2023-07-28T23:46:21Z,X-oss-byte
+Fix 5893 oauth deeplink multiple sessions,2023-07-27T14:24:53Z,rohankm
+feat: router gen. 2,2023-07-18T12:54:35Z,TorstenDittmann
+Bump clamav to get it working again,2023-07-17T20:11:45Z,stnguyen90
+Add APIs to atomically increment/decrement numeric attributes,2023-07-11T23:26:21Z,stnguyen90
+fix doc comment for filter method,2023-07-05T06:06:50Z,lohanidamodar
+Audit Appwrite's generic error messages,2023-06-22T21:35:43Z,gewenyu99
+Incomplete Example, generate error: TypeError: file.stream.pipe is no…,2023-06-15T21:52:37Z,Jhongt796
+Feat: Mulitple Events Execution,2023-06-05T10:16:08Z,PineappleIOnic
+Updated and renamed 10k-common-passwords to 100k-common-passwords,2023-05-15T15:35:36Z,sm-raiyyan
+[FIX] #5506 fixed by increasing the offset from 5000 to 1000000 for li…,2023-05-05T21:03:22Z,deepam-kapur
+Feat: Added minSize for String Attribute,2023-05-04T20:22:20Z,singhbhaskar
+docs(environment-variables): Update functions documentation,2023-05-04T09:30:58Z,Shiva953
+fix : Improper filter in Create user,2023-05-02T07:25:25Z,Shiva953
+Add Appwrite Cloud to read me.,2023-04-27T19:01:37Z,gewenyu99
+Docs: Create document and unknown attribute error messages.,2023-04-24T22:58:02Z,gewenyu99
+Fix link on doc,2023-04-20T00:57:44Z,fliitor
+Feat registrar,2023-04-18T14:44:51Z,wess
+Updated doc with correct endpoints,2023-04-10T22:43:55Z,x0samnan
+experiment: response models overhaul,2023-03-31T01:04:25Z,TorstenDittmann
+update readme-cn some doc,2023-03-25T10:05:33Z,gofenix
+Adds sha256 to etsy pkce based auth,2023-03-21T18:19:51Z,wess
+fixed svg images using links in place of local svg,2023-03-13T08:07:44Z,Veer0x1
+update base queries to make it extendable,2023-02-27T07:35:51Z,lohanidamodar
+Docs: Fix Max Size of Function Response,2023-02-17T22:25:48Z,gewenyu99
+Added RuPay Credit Card Icon in Avatars Service,2023-01-26T12:30:01Z,Yavnik
+refactor autoload require,2023-01-20T06:45:37Z,lohanidamodar
+Feat : Decouple `/projects` endpoint,2023-01-16T18:37:18Z,everly-gif
+Query Timeouts,2023-01-08T17:26:17Z,fogelito
+feat : Update OAuth tutorial,2022-12-15T09:53:34Z,everly-gif
+🇮🇸 Added missing Icelandic translations for email strings.,2022-12-12T19:20:54Z,olitomas
+Refactor cache new,2022-12-07T12:00:28Z,everly-gif
+pt-PT translation improvements,2022-11-28T10:40:39Z,cesperanc
+Feat experiment mongo,2022-11-04T14:23:45Z,wess
+Feat benchmarks,2022-11-01T03:37:31Z,abnegate
+feat: add dreamobjects storage,2022-10-28T21:20:41Z,aloks98
+Add Mastodon as an oauth2 provider,2022-10-26T17:05:23Z,grahhnt
+Fix team memberships secret exposure,2022-10-13T11:15:41Z,Meldiron
+Feat : Add LINE OAuth2 Provider,2022-10-11T15:29:16Z,everly-gif
+Feat: Implement 'locales' command,2022-10-07T07:53:21Z,Meldiron
+Update add-oauth2-provider.md,2022-10-07T03:58:10Z,tusharxoxoxo
+Fix: loose booleans,2022-09-23T09:27:27Z,Meldiron
+Added Turkish translations @ tr.json,2022-09-18T07:27:36Z,ooguzsrtt
+GitHub Workflows security hardening,2022-08-29T10:34:49Z,sashashura
+__stream,2022-08-22T16:07:07Z,shimonewman
+Add methods to match event using regex,2022-08-02T18:40:17Z,stnguyen90
+Fix: OAuth duplication error,2022-07-25T10:24:40Z,Meldiron
+master encryption filter,2022-07-21T10:39:51Z,lohanidamodar
+project level secrets,2022-03-27T10:40:48Z,lohanidamodar
+Create session from oAuth2 access token,2022-03-25T11:20:16Z,lohanidamodar
+Feat 2772 allow turning off analytics,2022-02-10T17:48:21Z,tzdev0
+Configurable recovery and account verify token duration,2022-02-09T05:13:35Z,gigonzalezs

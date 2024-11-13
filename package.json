@@ -1,0 +1,16 @@
+{
+  "name": "mytheresa-tech-test2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@playwright/test": "^1.48.2",
+    "node-fetch": "^2.7.0"
+  }
+}
