@@ -39,12 +39,12 @@ This repository contains automated tests for the **Fashion Hub** website, implem
 # Installation
 
 1. Clone the repository:
-
+   ```
    git clone https://github.com/c0sminghinea/mytheresa-tech-test.git
    cd mytheresa-test-tech
 
 2. Install the dependencies:
-
+   ```
    npm install
 
 3. Configure the environment:
@@ -54,6 +54,7 @@ This repository contains automated tests for the **Fashion Hub** website, implem
 
 4. Cross-Browser Testing:
    
+   ```
    npm test --project=chromium
    npm test --project=firefox
    npm test --project=webkit
