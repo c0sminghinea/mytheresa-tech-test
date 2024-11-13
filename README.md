@@ -65,7 +65,7 @@ This repository contains automated tests for the **Fashion Hub** website, implem
    To view a test report, navigate to the reports folder and open the generated HTML file. 
 
 6. Project structure
-
+```
 /mytheresa-tech-test
 ├── /pages                  # Page Object Model (POM) files
 │   ├── gitHubPRPage.js     # Github page methods
@@ -82,4 +82,4 @@ This repository contains automated tests for the **Fashion Hub** website, implem
 ├── /data.json              # Sample test data
 ├── package.json            # Project dependencies and scripts
 └── README.md               # Project documentation
-
+```
