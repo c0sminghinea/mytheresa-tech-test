@@ -11,22 +11,22 @@ This repository contains automated tests for the **Fashion Hub** website, implem
 
 # Test Scenarios
 
-# **Test Case 1: As a tester, I want to make sure there are no console errors **
+# **Test Case 1: As a tester, I want to make sure there are no console errors**
 - **Goal**: Ensure that no console errors occur when navigating to the FashionHub page (`https://pocketaces2.github.io/fashionhub/`).
 - **Test Details**: The test listens for console errors during page load and fails if any errors are detected. The errors are logged in a file with a timestamp.
 - **bash command to run test**: npm test consoleError.spec.js
 
-# **Test Case 2: As a tester, I want to check if a page is returning the expected status code **
+# **Test Case 2: As a tester, I want to check if a page is returning the expected status code**
 - **Goal**: Verify that all links on the FashionHub page return a status code of `200` or `30x` and not a `40x` (client error).
 - **Test Details**: The test iterates over all anchor (`<a>`) elements on the page, fetches the links, and checks the response status code for each link.
 - **bash command to run test**: npm test statusCodes.spec.js
 
-# **Test Case 3: Login Functionality**
+# **Test Case 3: As a customer, I want to verify I can log in**
 - **Goal**: Verify that a user can log in successfully.
 - **Test Details**: Using predefined credentials (`Username: demouser`, `Password: fashion123`), the test verifies that the login is successful by navigating to the login page and checking for a successful redirection.
 - **bash command to run test**: npm test successfulLogin.spec.js
 
-# **Test Case 4: Fetch Open Pull Requests**
+# **Test Case 4: As a product owner, I want to see how many open pull requests are there for our product**
 - **Goal**: Retrieve and save open pull requests from the GitHub repository for the appwrite project.
 - **Test Details**: The test uses the GitHub API to fetch all open pull requests, save them in a CSV format with the title, creation date, and author of each PR, and stores them in a file.
 - **bash command to run test**: npm test gitHubTest.spec.js
